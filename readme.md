@@ -1,4 +1,4 @@
-# Curso de Asincronismo con JavaScript
+# 📝 Curso de Asincronismo con JavaScript
 
 - Clase 1. [Algunas definiciones](#Algunas-definiciones)
 - Clase 2. [Introducción al asincronismo](#Introducción-al-asincronismo)
